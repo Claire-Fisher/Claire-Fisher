@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Claire-Fisher
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Python, Flask and MongoDB
+- 🌱 I’m currently learning Python, Django, with SQLite3, 
 - 💞️ I’m looking to collaborate on anything and everything anyone will let me get my paws on! 
 - 📫 How to reach me: https://www.linkedin.com/in/claire-fisher-coder/
 - 😄 Pronouns: she/her
